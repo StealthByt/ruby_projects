@@ -3,7 +3,7 @@
 Este repositório contém os códigos e soluções dos desafios realizados durante o curso de Ruby na [Digital Innovation One](https://www.dio.me/). Os arquivos estão organizados em pastas conforme o tipo de conteúdo.
 
 ## **Organização**
-- `desafios/`: Desafios propostos no curso.
+- `Desafio/`: Desafios propostos no curso.
   
 ## **Como executar**
 1. Certifique-se de ter o Ruby instalado.
