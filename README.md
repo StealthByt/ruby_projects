@@ -1,4 +1,5 @@
 # **Desafios e Códigos - Curso Ruby 💎 (DIO)**
+https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg
 
 Este repositório contém os códigos e soluções dos desafios realizados durante o curso de Ruby na [Digital Innovation One](https://www.dio.me/). Os arquivos estão organizados em pastas conforme o tipo de conteúdo.
 
